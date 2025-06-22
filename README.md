@@ -22,7 +22,7 @@ A simple and clean Weather App that allows users to search for current weather c
 
 > Add your deployed live link here (e.g., GitHub Pages, Netlify, Vercel)
 
-https://ashabegam07.github.io/Weather_App/
+weather-app-tawny-psi-31.vercel.app
 
 ---
 
