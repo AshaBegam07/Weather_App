@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #74ebd5, #acb6e5);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  width: 320px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.search-box {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  outline: none;
+}
+
+.weather-box .city {
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.weather-box .date {
+  font-size: 14px;
+  color: #eee;
+  margin-bottom: 15px;
+}
+
+.weather-box .temp {
+  font-size: 52px;
+  color: #fff;
+  margin: 10px 0;
+}
+
+.weather-box .weather {
+  font-size: 18px;
+  font-style: italic;
+  color: #fff;
+}
+
+.weather-box .hi-low {
+  font-size: 16px;
+  color: #eee;
+  margin-top: 8px;
+}
