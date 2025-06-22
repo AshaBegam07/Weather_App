@@ -22,7 +22,7 @@ A simple and clean Weather App that allows users to search for current weather c
 
 > Add your deployed live link here (e.g., GitHub Pages, Netlify, Vercel)
 
-[Live Demo 🚀](https://your-demo-link.com)
+[Live Demo 🚀]([https://your-demo-link.com](https://ashabegam07.github.io/Weather_App/))
 
 ---
 
